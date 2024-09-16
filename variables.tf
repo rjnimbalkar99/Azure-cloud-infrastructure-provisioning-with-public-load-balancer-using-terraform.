@@ -1,0 +1,9 @@
+variable "rgn" {}
+variable "Vnetn" {}
+variable "subn" {}
+variable "subn1" {}
+variable "location_name" {}
+variable "subscription_id" {}
+variable "client_id" {}
+variable "client_secret" {}
+variable "tenant_id" {}
